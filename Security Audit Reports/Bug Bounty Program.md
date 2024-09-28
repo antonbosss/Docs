@@ -14,10 +14,7 @@ Below is a quick outline of the Morpheus Bug Bounty Program
 
 ## Rewards
 
-
-- Morpheus will pay a reward of $500 to $150,000 for eligible discoveries in proportion to the severity of the vulnerability discovered and averted.
-  
-(Note: Payments earned prior to the end bootstrapping period will be paid after May 9, 2024)
+Morpheus will pay a reward of $500 to $150,000 for eligible discoveries in proportion to the severity of the vulnerability discovered and averted.
 
 ## Scope
 
